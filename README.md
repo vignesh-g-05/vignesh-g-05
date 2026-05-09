@@ -129,3 +129,16 @@
     </div>
   </ul>
 </div>
+
+<div id="user-content-toc">
+  <ul style="list-style: none">
+    <summary>
+      <h3>Analytics</h3>
+    </summary>
+    <br />
+    <img
+      src="https://streak-stats.demolab.com?user=vignesh-g-05&theme=tokyonight&short_numbers=true&card_width=700&card_height=200"
+      alt="GitHub Streak"
+    />
+  </ul>
+</div>
